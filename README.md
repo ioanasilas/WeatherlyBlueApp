@@ -1,6 +1,6 @@
-# WeatherlyBlue 🌦️ - A Simple Java Weather App
+# WeatherlyBlue 🌦️
 
-Welcome to **WeatherlyBlue**. It's a weather app. It gets the past hour’s temperature of a city. You enter a city name, and it fetches the data for you. Nothing fancy, just straightforward.
+Welcome to **WeatherlyBlue**. It's a weather app: it gets the past hour’s temperature of a city. You enter a city name, and it fetches the data for you.
 
 ## How It Works
 
@@ -8,7 +8,7 @@ Welcome to **WeatherlyBlue**. It's a weather app. It gets the past hour’s temp
    This is where the magic starts. Just run it, and the app will appear.  
 
 2. **Enter a City Name**  
-   On the main screen, type in the name of a city (default is Timișoara). But it should be accurate, it does not do shorthands.
+   On the main screen, type in the name of a city (default is Timișoara). But it should be an accurate name, not a shorthand.
 
 3. **Get the Past Hour’s Temperature**  
    The app uses two APIs:
